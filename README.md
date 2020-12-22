@@ -12,8 +12,6 @@ Like the original, [_Chiù dâ Palora_](https://www.napizia.com/cgi-bin/cchiu-da
 * [_Tradutturi Sicilianu_](https://translate.napizia.com/)
 * [_Aiùtami!_](https://www.napizia.com/cgi-bin/aiutami.pl)
 * [Poets' Page](https://www.napizia.com/pages/sicilian/poets.shtml)
-
-
 * [Introduction](https://www.napizia.com/pages/sicilian/intro-en.shtml)
 * [Boot and Stem Theory](https://www.napizia.com/pages/sicilian/sicilian-verbs.shtml)
 * [Find a Word](https://www.napizia.com/pages/sicilian/trova-palora.shtml)
